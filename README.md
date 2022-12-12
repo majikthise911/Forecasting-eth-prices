@@ -1,4 +1,4 @@
-# Forecasting Bitcoin Prices Using Prophet
+# Forecasting Eth Prices Using Prophet
 
 ## Background
 
@@ -10,7 +10,7 @@ Load the starter notebook into Google Colab and complete the following steps:
 
 1. Execute the code cells under the "Notebook Set Up" section.
 
-2. Read in the `bitcoin_hourly` CSV file. Drop the `volume` column.
+2. Read in the `eth_hourly` CSV file. Drop the `volume` column.
 
 3. Label the columns `ds` and `y` so that the syntax is recognized by Prophet.
 
@@ -34,9 +34,6 @@ Load the starter notebook into Google Colab and complete the following steps:
 
 13. From the `forecast_trends` DataFrame, use `hvPlot` to visualize the `yhat`, `yhat_lower`, and `yhat_upper` columns over the last 10 days (i.e., the last 240 rows).
 
-14. Create a `forecast_march_2021` Dataframe, which contains just forecasts for that month. The DataFrame should include the columns `yhat_upper`, `yhat_lower`, and `yhat`. Replace the column names to something less technical sounding: `Best Case`, `Worst Case`, and `Most Likely Case`, respectively.
+14. Create a `forecast_decebmer_2022` Dataframe, which contains just forecasts for that month. The DataFrame should include the columns `yhat_upper`, `yhat_lower`, and `yhat`. Replace the column names to something less technical sounding: `Best Case`, `Worst Case`, and `Most Likely Case`, respectively.
 
-15. Display the average forecasted price for March 2021
-
-
-
+15. Display the average forecasted price for December 2022
