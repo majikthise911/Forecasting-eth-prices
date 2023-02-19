@@ -2,7 +2,7 @@
 
 ## Background
 
-We will analyze patterns in hourly Bitcoin prices, believing that building a model which can forecast prices into the future will give an idea if investing in Bitcoin is worth or not.
+We will analyze patterns in hourly ETH prices and output a csv with 
 
 ## Instructions
 
