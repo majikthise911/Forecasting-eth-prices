@@ -4,6 +4,15 @@
 
 We will analyze patterns in hourly ETH prices and output a csv with 
 
+## Ocean Protocol Asset 
+https://market.oceanprotocol.com/asset/did:op:c080e2413e87636d04cae9e8dcdc05612b48159a585971556e86244221519ef6
+## Presentation 
+https://tome.app/get-shit-done-space/eth-ernal-sunshine-of-the-spotless-mind-clebgqzzp0fqrbd9z38nd6kgu
+## Challenge Repo
+https://github.com/oceanprotocol/predict-eth/blob/main/challenges/main3.md
+## Challenge Criteria
+https://desights.ai/shared/challenge/1?utm_source=Ocean+Blog&utm_medium=post&utm_campaign=ETH3
+
 ## Instructions
 
 Load the starter notebook into Google Colab and complete the following steps:
@@ -36,7 +45,3 @@ Load the starter notebook into Google Colab and complete the following steps:
 
 14. Display the forcasted prices for the next 12 hours starting with the date specified. 
 
-## Ocean Protocol Asset 
-https://market.oceanprotocol.com/asset/did:op:c080e2413e87636d04cae9e8dcdc05612b48159a585971556e86244221519ef6
-## Presentation 
-https://tome.app/get-shit-done-space/eth-ernal-sunshine-of-the-spotless-mind-clebgqzzp0fqrbd9z38nd6kgu
