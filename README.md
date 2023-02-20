@@ -35,3 +35,8 @@ Load the starter notebook into Google Colab and complete the following steps:
 13. Create a `forecast` Dataframe, which contains just forecasts for that month. The DataFrame should include the columns `yhat_upper`, `yhat_lower`, and `yhat`. Replace the column names to something less technical sounding: `Best Case`, `Worst Case`, and `Most Likely Case`, respectively.
 
 14. Display the forcasted prices for the next 12 hours starting with the date specified. 
+
+## Ocean Protocol Asset 
+https://market.oceanprotocol.com/asset/did:op:c080e2413e87636d04cae9e8dcdc05612b48159a585971556e86244221519ef6
+## Presentation 
+https://tome.app/get-shit-done-space/eth-ernal-sunshine-of-the-spotless-mind-clebgqzzp0fqrbd9z38nd6kgu
